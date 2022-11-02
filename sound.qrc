@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>96Khz.wav</file>
+        <file>96Khz_mono.wav</file>
+        <file>please.wav</file>
+        <file>1kHz_96kHz_16bit_3sec_0db_Mono.wav</file>
+    </qresource>
+</RCC>

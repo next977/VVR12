@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>watt.png</file>
+        <file>time.png</file>
+        <file>temp.png</file>
+        <file>stop.png</file>
+        <file>start.png</file>
+        <file>serialno.png</file>
+        <file>danger.png</file>
+        <file>action.png</file>
+    </qresource>
+</RCC>
